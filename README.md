@@ -86,7 +86,7 @@ Your application is already set up to be tested via [web-component-tester](https
 
 ## License
 
-MIT: [StartPolymer/license](https://github.com/Shah-Parth/license)
+MIT: [Shah-Parth/license](https://github.com/Shah-Parth/license)
 
 [webcomponents-image]: https://img.shields.io/badge/webcomponents.org-published-blue.svg
 [webcomponents-url]: https://beta.webcomponents.org/element/Shah-Parth/circle-progress
