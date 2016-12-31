@@ -42,6 +42,8 @@ Custom property | Description | Default
 `--circle-progress-bg-stroke-color` | The background color of the circle | `--paper-grey-100`
 `--circle-progress-stroke-color` | The stroke color of the circle | `--accent-color`
 `--circle-progress-stroke-linecap` | The stroke-linecap svg attribute of the circle | `round`
+`--circle-progress-width` | The width of the circle | `64px`
+`--circle-progress-height` | The height of the circle | `64px`
 
 ## Installation
 
