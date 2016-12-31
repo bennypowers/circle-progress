@@ -89,5 +89,5 @@ Your application is already set up to be tested via [web-component-tester](https
 MIT: [StartPolymer/license](https://github.com/StartPolymer/license)
 
 [webcomponents-image]: https://img.shields.io/badge/webcomponents.org-published-blue.svg
-[webcomponents-url]: https://beta.webcomponents.org/element/StartPolymer/circle-progress
-[webcomponents-demo]: https://beta.webcomponents.org/element/StartPolymer/circle-progress/demo/demo/index.html
+[webcomponents-url]: https://beta.webcomponents.org/element/Shah-Parth/circle-progress
+[webcomponents-demo]: https://beta.webcomponents.org/element/Shah-Parth/circle-progress/demo/demo/index.html
